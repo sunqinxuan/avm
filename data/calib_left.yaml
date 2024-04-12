@@ -1,0 +1,11 @@
+image_width: 1280
+image_height: 720
+camera_name: camera
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [431.10645014851326, 0, 614.0835353823536, 0, 431.83175753606577, 399.31469120976408, 0, 0, 1]
+distortion_coefficients:
+  rows: 1
+  cols: 4
+  data: [0.30399106071718424, 0.11575625458827714, -0.1361880951399535, 0.043236838969230737]
